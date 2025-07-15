@@ -9,13 +9,13 @@ const NavBar = () => {
           <Link to="/">Todos</Link>
         </li>
         <li>
-          <Link to="/categoria/entrada">Entradas</Link>
+          <Link to="/categoria/entrada">Entrada</Link>
         </li>
         <li>
-          <Link to="/categoria/platoprincipal">Platos principales</Link>
+          <Link to="/categoria/platoprincipal">Plato principal</Link>
         </li>
         <li>
-          <Link to="/categoria/postre">Postres</Link>
+          <Link to="/categoria/postre">Postre</Link>
         </li>
       </ul>
     </nav>
